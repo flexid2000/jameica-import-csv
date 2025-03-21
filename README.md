@@ -9,4 +9,5 @@ Python script to import Postbank CSV Table into Hibiscus/Jameica
 3. `python convert-to-hibiscus.py umsaetze.csv` -> `hibiscus_import.csv`
 4. In Jameica, go to `Start` > `Hibiscus` > `Konten`: choose aktive account
 5. Right click > `Umsätze importieren` > `CSV-Format`: choose `hibiscus_import.csv`
-6. done
+6. Adjust columns
+7. Done
